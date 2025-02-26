@@ -30,3 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadthiyan&show_icons=true&locale=en&layout=compact" alt="aadthiyan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadthiyan&show_icons=true&locale=en" alt="aadthiyan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadthiyan&" alt="aadthiyan" /></p>
+
