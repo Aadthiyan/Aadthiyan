@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Generative AI and Project Management**
 
-- 👨‍💻 All of my projects are available @ [My Repository](My Repository)
+- 👨‍💻 All of my projects are available @ Repository
 
 - 💬 Ask me about **💻 AI/ML, Blockchain, and Full-Stack Development 🚀 Building Scalable Web & Mobile Applications 🔍 Counterfeit Detection Using Blockchain 🩺 AI-Driven Healthcare Solutions 📜 Turning Handwritten Notes into Digital Text 🥋 Judo – State & National Level Competitor!**
 
