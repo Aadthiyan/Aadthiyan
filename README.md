@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Generative AI**
   
-- 🤝 I’m looking for help with Participating in Hackathons
+- 🤝 I’m looking for help with Participating in **Hackathons**
 
-- 👨‍💻 All of my projects are available @ Repository
+- 👨‍💻 All of my projects are available **@ Repository**
 
 - 💬 Ask me about **💻 AI/ML, Blockchain, and Full-Stack Development 🚀 Building Scalable Web & Mobile Applications 🔍 Counterfeit Detection Using Blockchain 🩺 AI-Driven Healthcare Solutions 📜 Turning Handwritten Notes into Digital Text 🥋 Judo – State & National Level Competitor!**
 
@@ -16,6 +16,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1SorXE_0zlG0XW_hSf3cXSilvGcKEhUbM/view?usp=sharing](https://drive.google.com/file/d/1SorXE_0zlG0XW_hSf3cXSilvGcKEhUbM/view?usp=sharing)
 
 - ⚡ Fun fact **I code AI and blockchain by day and throw Judo takedowns by night! 💻🥋**
+
+<p align="center">
+  <img src="https://media.tenor.com/7Xv79dImKAwAAAAC/glasses-anime.gif" width="400"/>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
