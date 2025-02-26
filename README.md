@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadthiyan&label=Profile%20views&color=0e75b6&style=flat" alt="aadthiyan" /> </p>
 
-- 🌱 I’m currently learning **Generative AI and Project Management**
+- 🌱 I’m currently learning **Generative AI**
+  
+- 🤝 I’m looking for help with Participating in Hackathons
 
 - 👨‍💻 All of my projects are available @ Repository
 
