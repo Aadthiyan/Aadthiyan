@@ -17,9 +17,6 @@
 
 - ⚡ Fun fact **I code AI and blockchain by day and throw Judo takedowns by night! 💻🥋**
 
-<p align="center">
-  <img src="https://media.tenor.com/7Xv79dImKAwAAAAC/glasses-anime.gif" width="400"/>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
