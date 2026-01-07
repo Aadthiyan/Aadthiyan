@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **aadhiks9595@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SorXE_0zlG0XW_hSf3cXSilvGcKEhUbM/view?usp=sharing]([https://drive.google.com/file/d/1SorXE_0zlG0XW_hSf3cXSilvGcKEhUbM/view?usp=sharing])
+- ## Resume **[View my resume](https://drive.google.com/file/d/1jEyvGACMKL1OR1dy63Q3P1kozy-TWa6s/view?usp=sharing)**
 
 - ⚡ Fun fact **I code AI and blockchain by day and throw Judo takedowns by night! 💻🥋**
 
